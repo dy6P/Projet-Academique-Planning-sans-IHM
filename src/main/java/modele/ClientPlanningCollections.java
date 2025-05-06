@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public class ClientPlanningCollections {
     public static void main(String[] args) {

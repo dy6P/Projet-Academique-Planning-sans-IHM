@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public interface ConstantesCalendrier {
     String [] JOURS_SEMAINE = {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"};

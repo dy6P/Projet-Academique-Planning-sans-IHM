@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public class Reservation implements Comparable<Reservation> {
     private DateCalendrier chDateCalendrier;

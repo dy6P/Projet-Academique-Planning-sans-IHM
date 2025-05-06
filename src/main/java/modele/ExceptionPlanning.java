@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public class ExceptionPlanning extends Exception implements ConstantesErreur {
     private int chCodeErreur;

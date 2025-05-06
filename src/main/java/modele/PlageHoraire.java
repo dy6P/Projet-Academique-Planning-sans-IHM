@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public class PlageHoraire implements Comparable<PlageHoraire> {
     private final static int DUREE_MIN = 30;

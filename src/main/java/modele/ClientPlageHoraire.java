@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public class ClientPlageHoraire {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.MethodOrderer;

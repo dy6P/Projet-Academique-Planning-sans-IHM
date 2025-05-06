@@ -1,4 +1,4 @@
-package Modele;
+package modele;
 
 public interface ConstantesErreur {
     String [] ERREURS_PLANNING = {
